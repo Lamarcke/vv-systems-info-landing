@@ -1,0 +1,21 @@
+{
+  "name": "vv-systems-instagram-info",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "devDependencies": {
+    "sass": "^1.54.5",
+    "vite": "^3.0.7"
+  },
+  "dependencies": {
+    "prettier": "^2.7.1"
+  },
+  "prettier": {
+    "tabWidth": 4
+  }
+}
